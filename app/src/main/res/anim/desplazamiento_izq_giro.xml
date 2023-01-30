@@ -1,0 +1,14 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:startOffset="4000"
+        android:duration="2000"
+        android:fromYDelta="0"
+        android:toYDelta="400"/>
+    <rotate
+        android:startOffset="4000"
+        android:duration="2000"
+        android:fromDegrees="0"
+        android:toDegrees="720"
+        android:pivotX="50%"
+        android:pivotY="50%"/>
+</set>
